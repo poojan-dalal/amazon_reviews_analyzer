@@ -1,6 +1,8 @@
 
 # amazon_products_issue_analyzer
 
+VIDEO LINK: https://drive.google.com/drive/folders/16At-dYrGpqYliNBEYDTJJrbLF44C9t2a?usp=sharing
+
 E-commerce has revolutionized the way we shop. Thousands of reviews get uploaded online on a daily basis and it&#39;s always a task to fetch if a product/service is actually good or not
 
 **Problem statement:**
