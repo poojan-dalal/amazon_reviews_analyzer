@@ -1,3 +1,4 @@
+
 # amazon_products_issue_analyzer
 
 E-commerce has revolutionized the way we shop. Thousands of reviews get uploaded online on a daily basis and it&#39;s always a task to fetch if a product/service is actually good or not
@@ -31,10 +32,10 @@ Amazon analyzer algorithms scan and analyze the data, identifying customer senti
 
 **Technology used:**
 
-It used technology such as react, NLP: tensor flow custom model, flask rest API, firebase real-time API
+It used technology such as react, NLP: NLTK, flask rest API, firebase real-time Database
 
 (Front end) It is easy to use where companies paste their product link
 
-(Back End) all the comments of the product will be scrapped and analysed using complex deep learning-based NLP methods
+(Back End) all the comments of the product will be scrapped and analysed using complex NLP methods
 
 (Response: Front-End) Data visualisation of major plus points of the product, major complains, pie charts depicting issues faced, timeline of complains and improvement of product etc
