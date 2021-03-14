@@ -31,8 +31,10 @@ This system will serve two purposes:
 Amazon analyzer algorithms scan and analyze the data, identifying customer sentiment and flagging pain points. The end result is highly granular Amazon review analysis for data-driven decision making that will elevate your brand to a whole new level.
 
 **Working**
+
 The directory Back-End contains the required python flask, scraping and NLP codes.
 The directory Front-End is built React 
+
 **Technology used:**
 
 It used technology such as react, NLP: NLTK, flask rest API, firebase real-time Database
